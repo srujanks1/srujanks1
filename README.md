@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srujanks1
-- 👀 I’m interested in 
+- 👀 I’m interested in VLSI DESIGN 
 - 🌱 I’m currently learning elecronics and communication eng
-- 💞️ I’m looking to collaborate on elecronics &VLSI DESING projects
+- 💞️ I’m looking to collaborate on elecronics &VLSI DESIGN projects
 - 📫 How to reach me srujanksgowda@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
